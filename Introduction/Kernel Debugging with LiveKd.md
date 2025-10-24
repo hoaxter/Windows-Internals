@@ -1,4 +1,4 @@
-# Kernel Debugging with LiveKd
+# Kernel Debugging with LiveKd sysinternals
 
 Using Windows Sysnternals tool called LiveKd that helps in debugging the Window's kernel structures, modules and etc.
 
